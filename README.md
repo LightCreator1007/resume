@@ -8,7 +8,7 @@ This is my up-to-date resume, showcasing my skills, projects, and achievements i
 ## 🛠 Tech Used
 - **LaTeX** (for professional formatting)
 - **Overleaf (to build the PDF)
-- **GitHub Pages (optional)** for hosting
+- **GitHub Pages** for hosting
 
 ## 🌐 View My Resume
 - **Direct PDF Link:** [Click Here](./Lucid_Sovereign_Resume.pdf)
